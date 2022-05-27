@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @aldinabbe02
-- 📚 I'm learning SQL
-- 📝 Cen someone help me write days in SQL, days between two dates?
-Thank you!
+♡☆♡☆♡☆♡☆♡☆♡☆♡☆♡☆♡☆♡☆♡
+☆                              ☆
+♡- 👋 Hi, I’m @aldinabbe02     ♡
+☆                              ☆
+♡- 📚 I'm learning SQL         ♡
+☆                              ☆
+♡☆♡☆♡☆♡☆♡☆♡☆♡☆♤☆♡☆♡☆♡
 
 
 <!---
