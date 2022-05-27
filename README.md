@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldinabbe02
-- 📚 I learning SQL
+- 📚 I'm learning SQL
 - 📝 Cen someone help me write days in SQL, days between two dates?
 Thank you!
 
